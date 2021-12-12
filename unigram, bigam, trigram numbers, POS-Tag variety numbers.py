@@ -1,3 +1,5 @@
+#By selecting 2 corpora prepared for different purposes, some basic features (unigram, bigam, trigram numbers, POS-Tag variety numbers etc.) should be compared and interpreted. The differences between the corpora and the relation between the preparation purposes of the corpora should be examined.
+
 import nltk
 from collections import Counter
 import re
