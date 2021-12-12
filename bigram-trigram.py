@@ -1,4 +1,5 @@
 # Creating bigrams and trigrams
+#Using N-gram analysis, list all 2-grams and 3-grams according to a certain threshold (eg, more than 5 in frequency) in a Turkish corpus. With these study, emphasize the importance of lematization for Turkish. Also, comment on what purpose this application can be used in the real world.
 
 import nltk
 
