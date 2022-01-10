@@ -1,3 +1,5 @@
+# task 8: First of all, English word vectors calculated by any method (e.g. Word2Vec, GloVe or fastText) should be obtained from the internet. We must also have an English corpus. Using any Semantic Similarity method that the student chooses or creates, the most similar sentence in the corpus should be found for a sentence given externally.
+
 import spacy
 import pandas as pd
 import numpy as np
